@@ -1,0 +1,5 @@
+xoxb-216300933701-HC7rG1wKdwVIQyXEEYm1O0G1
+
+curl \
+ -H 'Authorization: Bearer WRCUZJ7V2JFU2C6NSK34FFFF2QNWHY56' \
+ 'https://api.wit.ai/message?v=24/07/2017&q='
